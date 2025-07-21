@@ -27,8 +27,7 @@
 
 - **Jetpack Compose** for UI and theming (Material 3).  
 - **Hilt (Dagger)** for dependency injection.  
-- **Retrofit** for network requests to OpenWeatherMap API.  
-- **Room** for local data caching.  
+- **Ktor** for network requests to OpenWeatherMap API.  
 - **ViewModel & LiveData/StateFlow** for MVVM state management.  
 - The app follows Clean Architecture principles, separating data, domain, and presentation layers:contentReference[oaicite:20]{index=20}.
 
