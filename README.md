@@ -11,7 +11,7 @@
 - Modern UI using Jetpack Compose, Material 3 theming, and animation placeholders.  
 - Good error handling for no-network and invalid city inputs.
 
-## Screenshots  
+## Preview  
 
 
 https://github.com/user-attachments/assets/a9b5fb49-fba6-4a4a-84f0-358fe22e29a7
