@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/a9b5fb49-fba6-4a4a-84f0-358fe22e29a7
 2. **Configure API Key:** In the project, open `PresentationModule.kt`. Set the `API_KEY` constant to your own key (see example below).  
    :contentReference[oaicite:19]{index=19} *Figure: In `Constants.kt`, update the `API_KEY` and base URL for your OpenWeatherMap API key.*  
 
-3. **Build the Project:** Open the project in Android Studio. Let it sync to download all dependencies (Compose, Retrofit, Hilt, Room, etc.).  
+3. **Build the Project:** Open the project in Android Studio. Let it sync to download all dependencies (Compose, Ktor, Hilt, Room, etc.).  
 
 4. **Run the App:** Connect an Android device or emulator and run the app. Grant location permissions if prompted. You should see the weather home screen.
 
