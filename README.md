@@ -13,7 +13,10 @@
 
 ## Screenshots  
 
-*(Placeholder for actual screenshots)*
+
+https://github.com/user-attachments/assets/a9b5fb49-fba6-4a4a-84f0-358fe22e29a7
+
+
 
 ## Setup Instructions
 
