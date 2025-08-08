@@ -29,7 +29,7 @@ object PresentationModule {
     @Singleton
     fun provideWeatherApiService(): WeatherAPIservice {
         return WeatherAPIservice(
-            apiKey = "8d8e4094f86cdf360f8005eb31b42b3a"
+            apiKey = "your api key "
         )
     }
 
