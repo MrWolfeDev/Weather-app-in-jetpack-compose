@@ -6,7 +6,6 @@
 
 - Search weather by city name or use current GPS location.  
 - Display current weather and 5-day forecast (3-hour intervals).  
-- Save cities to “My Cities” list and quickly toggle between them.  
 - Offline support: last-fetched weather is cached in local database.  
 - Modern UI using Jetpack Compose, Material 3 theming, and animation placeholders.  
 - Good error handling for no-network and invalid city inputs.
